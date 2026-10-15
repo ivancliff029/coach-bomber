@@ -8,7 +8,7 @@ export default function Hero() {
       className="relative overflow-hidden bg-noise pt-32 pb-24 sm:pt-40 sm:pb-32"
     >
       <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-45"
+        className="absolute inset-0 bg-cover bg-[68%_center] bg-no-repeat opacity-45 sm:bg-center"
         style={{
           backgroundImage:
             "url('/img/home.jpeg')",
