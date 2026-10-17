@@ -56,7 +56,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center rounded-sm bg-clay px-7 py-4 text-sand font-medium hover:bg-clay-bright transition-colors"
           >
-            Book a Free Class on WhatsApp
+            Book a Class Today At Affordable Prices on WhatsApp
           </a>
           <a
             href="#programs"
